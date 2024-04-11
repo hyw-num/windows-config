@@ -1,0 +1,8 @@
+terminal
+zotera
+docker
+wps
+picgo
+chrome 
+
+tencent 一系列工作软件
